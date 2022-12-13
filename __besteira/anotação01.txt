@@ -1,0 +1,8 @@
+depois do ambiente virtual ativo você deve digitar o comando CRTL Shift P 
+para abrir a paleta de opçoes do vs code, depois disso, select interpreter
+python: select interpreter
+e selecionar o da sua venv
+
+themes:
+- omthemes
+- material icon theme
